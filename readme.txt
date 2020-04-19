@@ -4,4 +4,7 @@ Git has a mutable index called stage.
 
 
 Git has a different.
+
+Git a small change.
+
 	
